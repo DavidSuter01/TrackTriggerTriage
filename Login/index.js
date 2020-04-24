@@ -1,0 +1,1 @@
+export { default as Splash } from "./src/screens/Splash.js";
